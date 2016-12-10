@@ -14,6 +14,6 @@ Further work would include the methods of the paper: Gomes-Gonçalves, Erika, He
 
 
 ![Alt Text](/figures/fig1.png)
-Format: ![Alt Text](/figures/fig1.png)
+Format: ![Alt Text](/figures/fig2.png)
 
 
